@@ -1,0 +1,14 @@
+C:\Users\Andrey\source\repos\Lab(C#)4\Lab(C#)4\obj\Debug\net8.0\Lab(C#)4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Andrey\source\repos\Lab(C#)4\Lab(C#)4\obj\Debug\net8.0\Lab(C#)4.AssemblyInfoInputs.cache
+C:\Users\Andrey\source\repos\Lab(C#)4\Lab(C#)4\obj\Debug\net8.0\Lab(C#)4.AssemblyInfo.cs
+C:\Users\Andrey\source\repos\Lab(C#)4\Lab(C#)4\obj\Debug\net8.0\Lab(C#)4.csproj.CoreCompileInputs.cache
+C:\Users\Andrey\source\repos\Lab(C#)4\Lab(C#)4\bin\Debug\net8.0\Lab(C#)4.exe
+C:\Users\Andrey\source\repos\Lab(C#)4\Lab(C#)4\bin\Debug\net8.0\Lab(C#)4.deps.json
+C:\Users\Andrey\source\repos\Lab(C#)4\Lab(C#)4\bin\Debug\net8.0\Lab(C#)4.runtimeconfig.json
+C:\Users\Andrey\source\repos\Lab(C#)4\Lab(C#)4\bin\Debug\net8.0\Lab(C#)4.dll
+C:\Users\Andrey\source\repos\Lab(C#)4\Lab(C#)4\bin\Debug\net8.0\Lab(C#)4.pdb
+C:\Users\Andrey\source\repos\Lab(C#)4\Lab(C#)4\obj\Debug\net8.0\Lab(C#)4.dll
+C:\Users\Andrey\source\repos\Lab(C#)4\Lab(C#)4\obj\Debug\net8.0\refint\Lab(C#)4.dll
+C:\Users\Andrey\source\repos\Lab(C#)4\Lab(C#)4\obj\Debug\net8.0\Lab(C#)4.pdb
+C:\Users\Andrey\source\repos\Lab(C#)4\Lab(C#)4\obj\Debug\net8.0\Lab(C#)4.genruntimeconfig.cache
+C:\Users\Andrey\source\repos\Lab(C#)4\Lab(C#)4\obj\Debug\net8.0\ref\Lab(C#)4.dll
